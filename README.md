@@ -1,6 +1,4 @@
-hola!! hay que entregar el repositorio entero el jueves a las 23:59, tenemos q hacer cada uno
-nuestra parte por nuestra cuenta (cada uno en una rama distinta, yo tengo la main creo porque he creado
-el repositorio este) y poco más
+hola!! 
 
 (notas del pdf)
 
