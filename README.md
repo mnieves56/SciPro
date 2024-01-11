@@ -1,1 +1,1 @@
-there's an additional function called annotation_stats(df) that generates a report regarding statistics, variance difference, outliers and observation count of the passed dataframe (that should be cleaned_df but for testing the original df can be passed)
+I, collaborator 1 (miguel), accidentally committed to main instead of creating an independent branch. When we realized it, it was already too late
